@@ -16,5 +16,8 @@ Depuis le début de l'association, **27 personnes** ont prêté collectivement *
 Il y a actuellement **14 personnes** prêtent à prêter collectivement **37000€**
 
 
-
 ### Comment ça marche ? 
+
+Toutes les personnes intéressées s'inscrivent à l'association et nous organisons des rencontres toutes les deux semaines environ par visio et tous les mois dans une ville ou un lieu différent. Les personnes peuvent se rencontrer à cette occasion
+
+L'argent est prêté directement de personne à personne via un contrat de prêt entre particuliers classique. L'argent ne tran 
