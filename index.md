@@ -1,8 +1,20 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
 ---
+## De l'argent pour réparer
 
-# L'Échappée Belle
+Nous sommes une communauté de personnes qui avons à la fois le privilège d'avoir un peu d'argent de côté et l'envie de contribuer dans la direction de la justice sociale et environnementale
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Nous sommes une communauté de personnes qui avons des projets de justice sociale et environnementale et n'avons pas l'argent pour mener nos projets à bien et les banques n'aiment pas nos dossiers et de toute manière, nous n'aimons pas vraiment les banques
+
+Nous nous rencontrons ici
+
+Depuis le début de l'association, **27 personnes** ont prêté collectivement **108000€** à **8 projets**\
+**13000€** ont déjà été remboursés
+
+Il y a actuellement **14 personnes** prêtent à prêter collectivement **37000€**
+
+
+
+### Comment ça marche ? 
