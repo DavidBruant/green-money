@@ -20,4 +20,6 @@ Il y a actuellement **14 personnes** prêtent à prêter collectivement **37000�
 
 Toutes les personnes intéressées s'inscrivent à l'association et nous organisons des rencontres toutes les deux semaines environ par visio et tous les mois dans une ville ou un lieu différent. Les personnes peuvent se rencontrer à cette occasion
 
-L'argent est prêté directement de personne à personne via un contrat de prêt entre particuliers classique. L'argent ne tran 
+L'argent est prêté directement de personne à personne via un contrat de prêt entre particuliers classique. 
+
+L'argent ne transite pas par l'association. L'association n'est là que pour réunir la communauté, créer un climat de confiance et résoudre les conflits si des conflits émergent 
